@@ -11,13 +11,19 @@ The course covers the main types of architectures and the principles of operatio
 
 ### HW1: **[Mathematics in Deep Learning and Optimization Methods]**  
 **Topics**: Information Theory • Optimization • Gradient Descent  
-- Implemented optimization methods from `torch.optim` library 
+- Implementation of optimization methods from `torch.optim` library 
 
 **Key Files**:  
 `/hw1/DL_homework_1.ipynb`
 
 ---
-  
+### HW2: **[Intoduction to Neural Nets]**  
+**Topics**: Neural Nets • Activation Functions • Linear Layer
+- Implementation of Neural Net from scratch using only NumPy
+- Reference: `torch.nn`
+
+**Key Files**:  
+`/hw2/DL_homework_2.ipynb`
 
 ---
 
