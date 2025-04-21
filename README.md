@@ -32,10 +32,26 @@ The course covers the main types of architectures and the principles of operatio
 - Reference: `torch.nn`
 
 **Key Files**:  
-`/hw3/DL_homework_2.ipynb`
+`/hw3/DL_homework_3.ipynb`
 
 ---
+### HW4: **[Convulutional Neural Net]**  
+**Topics**: Neural Nets • Convolution • Computer Vision
+- Implementation of Convulutional Neural Net from scratch using only NumPy
+- Reference: `torch.nn`
 
+**Key Files**:  
+`/hw4/DL_homework_4.ipynb`
+
+---
+---
+### HW5: **[Image Classification Competition]**  
+**Topics**: Computer Vision • Image Classification
+- Kaggle Competition in Image Classification problem
+- Achieved accuracy: 92.6%
+
+**Key Files**:  
+`/hw5/DL_homework_5.ipynb` `hw5/DL_homework_5_report.pdf`
 
 ## 🛠️ Technical Environment  
 ```yaml
