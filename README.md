@@ -59,6 +59,22 @@ The course covers the main types of architectures and the principles of operatio
 `/hw6/DL_homework_6.ipynb` 
 
 ---
+### HW8: **[Generative Neural Nets]**  
+**Topics**: Computer Vision • Generative Neural Nets • VAE • GAN
+- Training GAN's with different approaches
+
+**Key Files**:  
+`/hw8/DL_homework_8.ipynb` 
+
+---
+### HW9: **[NLP]**  
+**Topics**: NLP • TF-IDF • Word2Vec
+- Creating a translator using only Word2Vec
+
+**Key Files**:  
+`/hw8/DL_homework_8.ipynb` 
+
+---
 
 ## 🛠️ Technical Environment  
 ```yaml
