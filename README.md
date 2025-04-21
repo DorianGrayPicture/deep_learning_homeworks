@@ -26,6 +26,16 @@ The course covers the main types of architectures and the principles of operatio
 `/hw2/DL_homework_2.ipynb`
 
 ---
+### HW3: **[Neural Nets Regularization]**  
+**Topics**: Neural Nets • Regularization • Dropout • BatchNorm
+- Implementation of Regularization layers from scratch using only NumPy
+- Reference: `torch.nn`
+
+**Key Files**:  
+`/hw3/DL_homework_2.ipynb`
+
+---
+
 
 ## 🛠️ Technical Environment  
 ```yaml
