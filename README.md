@@ -72,7 +72,7 @@ The course covers the main types of architectures and the principles of operatio
 - Creating a translator using only Word2Vec
 
 **Key Files**:  
-`/hw8/DL_homework_8.ipynb` 
+`/hw9/DL_homework_9.ipynb` 
 
 ---
 
