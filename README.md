@@ -44,14 +44,21 @@ The course covers the main types of architectures and the principles of operatio
 `/hw4/DL_homework_4.ipynb`
 
 ---
----
 ### HW5: **[Image Classification Competition]**  
 **Topics**: Computer Vision • Image Classification
 - Kaggle Competition in Image Classification problem
 - Achieved accuracy: 92.6%
 
+---
+### HW6: **[Object Detection]**  
+**Topics**: Computer Vision • Object Detection • RCNN
+- RetinaNet implementation
+- Faster RCNN training
+
 **Key Files**:  
-`/hw5/DL_homework_5.ipynb` `hw5/DL_homework_5_report.pdf`
+`/hw6/DL_homework_6.ipynb` 
+
+---
 
 ## 🛠️ Technical Environment  
 ```yaml
